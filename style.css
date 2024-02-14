@@ -1,0 +1,554 @@
+
+ 
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+ 
+/* Start Header */
+
+header, nav , .secone {
+  background-color: #F1EFEB;
+}
+
+/* End Header */
+
+/* Start Nav */
+
+.nav a {
+    color:#6A6E49;
+}
+
+/* End Nav */
+
+/*start section one*/
+.secone p {
+    font-size: 85px;
+    text-align: start;
+    font-family: 'Italiana', sans-serif;
+    line-height: 1;  
+}
+.secone button {
+    background-color: #F1EFEB;
+    border-color: #000000;
+    color: #000000;
+    width: 20%;
+    height:6vb;  
+    
+}
+
+/*End section one*/
+
+
+/*start section two*/
+.sectwo{
+
+    margin-top: 10vw;
+
+}
+.sectwo h1 {
+    font-family: 'Italiana', sans-serif;
+    font-size: 35px;
+
+}
+
+.sectwo a {
+  color: #6A6E49;
+}
+
+
+
+
+/*End section Two*/
+
+/* Start section Three*/
+
+.secthree {
+
+    margin-top: 10vw;
+
+}
+
+.secthree_img1  {
+    background-color: #6A6E49;
+    width: 33.3%;
+    height: 70vb; 
+    color: #ffffff;
+
+    }
+
+    .secthree_img1 > img {
+        height: 30vb; 
+        width: 40%;
+        border-radius: 40% 40% 0 0;
+        margin-top: 20%;
+        }
+
+
+        
+    .secthree_img3  {
+        width: 33.3%;
+        height: 70vb;
+        background-color: #F1EFEB;
+
+    }
+
+    .secthree_img3 > img {
+         width: 40%;
+         margin-top: 20%;
+
+     }
+
+     .secthree_img2_img2{
+        height: 70vb; 
+        width: 100%;
+ 
+ 
+}
+    .secthree_img2{
+        width: 33.4%;
+        background-color: #98a808;
+        height: 70vb; 
+        margin: 0;
+        padding: 0;
+     }
+
+    .overlay-img {
+        position: absolute;
+        top: 90%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+      }
+
+       .secthree  h1{
+        margin-top: 5%;
+        font-family: 'Italiana', sans-serif;
+        font-size: 35px;
+       }
+
+       .secthree  p {
+         width:45% ;
+         padding: auto; 
+         margin:auto;
+         margin-bottom: 3%;
+}
+.secthree  a {
+    color : rgb(255, 255, 255);
+}
+
+.secthree_img3 >a {
+    color: #000000;
+}
+
+            /*End section Three*/
+
+
+
+            
+            /*Start section Four*/
+
+
+.secfour  {
+   
+     margin-top: 10vw;
+  
+}
+
+.secfour h1 {
+
+    font-family: 'Italiana', sans-serif;
+    font-size: 35px;
+    margin-bottom: 5vw;
+}
+
+.secfour p  {
+    font-family: 'Italiana', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+            /*End section Four*/
+
+
+            /* Start section Five */
+
+.secfive {
+    margin-top: 10vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+ }
+
+ .secfive .card {
+    background-color: #F1EFEB;
+    border-radius: 30% 30% 0 0;
+    width: 30%;
+    height: 35vb;
+    margin-top: 20%;
+
+}
+
+.secfive .card img  {
+       max-width: 80%;
+       height: auto;
+       top: -85%;
+       right: 8%;
+     
+ }
+ .secfive   p {
+
+    font-family: 'Italiana', sans-serif;
+    font-size: 6rem;
+    text-align: center;
+    margin-top: 50%;
+    z-index: 1;
+    width: 250%;
+    
+    line-height: 1.1;
+   }
+
+          /* End section Five */
+
+
+
+         /* Start section Six */
+
+
+.secsix .row{
+
+    margin-top: 15%;
+}
+
+
+.secsix h1 { 
+color: #E6E8D6;
+font-family: 'Italiana', sans-serif;
+font-size: 300px;
+}
+
+
+.secsix p { 
+    font-family: 'Italiana', sans-serif;
+
+}
+
+
+         /* End section Six */
+
+         /* Start section seven */
+
+.secseven {
+
+        background-color: #F1EFEB;
+        border-color: #000000;
+        color: #000000;
+        width: 15%;
+        height:6vb;
+    
+         }
+                  /* End section seven */
+
+                  
+                 /* Start section Eight */
+
+ .seceight  {
+    margin-top: 15%;
+  }  
+
+  
+
+.seceight .card {
+    background-color: #E6E8D6;
+    box-shadow: 2px 4px 8px rgba(0,0, 0,.7);
+    padding: 1% ;
+
+}
+   
+.seceight img {
+    border: 60px solid #6A6E49;
+    max-width: 125%;
+    
+}
+
+
+.seceight h5 {
+
+    font-family: 'Italiana', sans-serif;
+    font-size: 50px;
+    margin-bottom: 2vw;
+}
+
+.seceight a {
+    color: #000000;
+
+ }
+                 /* End section Eight */
+
+
+
+                 /* Start section nine */
+
+
+.secnine{
+    margin-top: 15%;
+}
+
+ .secnine img{
+    max-width: 100%;
+ }
+
+ .secnine h1{
+    font-family: 'Italiana', sans-serif;
+    font-size: 50px;
+  }
+
+ .secnine h3 {
+    color: #777777;
+    font-family: 'Italiana', sans-serif;
+ }
+
+ .secnine p {
+       color: #777777;
+ }
+
+                 /* End section nine */
+
+
+
+                 /* Start Section  Ten */
+
+
+.secten h1 { 
+color: #E6E8D6;
+font-family: 'Italiana', sans-serif;
+font-size: 300px;
+}
+
+
+.secten p { 
+    font-family: 'Italiana', sans-serif;
+    font-size: 18px;
+    color: #777777;
+
+
+}
+
+
+                /* End Section  Ten */
+
+
+
+
+               /* Start Section  Eleven */
+
+               .seceleven_div1 {
+                background-color: #6A6E49;
+                width: 50%;
+                height: 70vb;
+                margin:  auto;
+              
+              }
+
+              .seceleven_div1 img{
+                 width: 70%;
+                margin: auto;
+                display: block;
+                border-radius: 25% 25% 0 0;
+              }
+
+
+              .seceleven_div2 {
+                background-color: #F1EFEB;
+                width: 50%;
+                height: 70vb;
+               
+              }
+
+
+.seceleven_div3 h5{
+
+    font-family: 'Italiana', sans-serif;
+    font-size: 35px;
+    margin-left: 22%;
+ 
+}
+
+.seceleven_div3 .one {
+
+    width:38%;
+}
+.seceleven_div3 .two {
+
+    width:29%;
+}
+.seceleven_div3 a {
+    text-decoration: none;
+    color:#6c4b4b;
+    width:35%;
+}
+
+.seceleven button {
+    background-color: #F1EFEB;
+    border-color: #000000;
+    color: #000000;
+    width: 25%;
+    height:5vb;
+}
+
+                   /* End Section  Eleven */     
+
+                  /* Start section Twelve */
+
+
+.twelve .container-fluid {
+
+    margin-top: 15%;
+      
+}
+
+.twelve .col {
+    padding-left: 0; padding-right: 0; 
+}
+
+   .twelve img{
+    width:100%;
+    margin: 0;
+    padding: 0;
+   }                
+                     /* End section Twelve */
+
+
+ footer  {
+    background-color: #F1EFEB;
+  }                   
+
+ footer svg {
+
+    margin:5%;
+
+ }
+
+ footer .account {
+    font-family: 'Italiana', sans-serif;
+    font-size: 25px;
+      
+ }
+
+ footer .navbara {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    
+
+ }  
+
+ footer .navbar {
+    height:  10vb;
+    
+ }
+ footer a {
+    text-decoration: none;
+ }
+
+                /* Media  Queries */ 
+                
+
+ @media screen and (max-width: 1399px) {
+    .secone button {
+        /* Adjust styles for screens wider than 1398 pixels */
+        font-size: 80%;
+
+    }  
+}
+
+@media screen and (max-width: 991px) {
+    .secone button {
+        /* Adjust styles for screens wider than 1398 pixels */
+        font-size: 65%;
+        width:40%;
+        
+
+
+    }  
+.secone .container {
+         margin-right: -10px;
+
+}
+    .secone p{
+        margin-top: 25%;
+        font-size:50px ;
+    }
+
+    .sectwo h1 {
+        font-size: 25px;
+    }
+
+    .secthree_img1 > img{
+
+        height: 20vb;
+    }
+
+    .secfive .card img {
+        max-width: 80%;
+        height: auto;
+        top: -40%;
+        right: 8%;
+    }
+
+    .secfive p {
+        font-family: 'Italiana', sans-serif;
+        font-size: 4rem;
+        text-align: center;
+        margin-top: 50%;
+        z-index: 1;
+        width: 250%;
+        line-height: 1.1;
+    }
+
+    .secthree p {
+        width:50%;
+    }
+
+    .secnine .row{
+        margin-top: 15%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .seceleven button {
+        background-color: #F1EFEB;
+        border-color: #000000;
+        width: 35%;
+        height: 5vb;
+        font-size: 12px;
+    }
+
+    .seceleven_div3 .one {
+        width: 65%;
+    }
+
+    .seceleven_div3 .two {
+        width: 51%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+     
+    .seceight img {
+        border: 35px solid #6A6E49;
+        max-width: 100%;
+    }
+  
+    footer .account p {
+        font-family: 'Italiana', sans-serif;
+        font-size: 15px;
+        margin-left:20px;
+    }
+     
+}
